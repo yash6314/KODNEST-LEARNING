@@ -1,0 +1,19 @@
+package com.kodnest.methods;
+
+import java.util.Scanner;
+
+public class Temperature_Conversion {
+
+	public static void main(String[] args) {
+		Scanner scan=new Scanner(System.in);
+		int x=0;
+		int i=1;
+		while(i<=5) {
+			System.out.println("s");
+			i++;
+			x++;
+		}
+	    System.out.println(x);
+
+	}
+}
