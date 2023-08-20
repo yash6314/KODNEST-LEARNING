@@ -1,0 +1,10 @@
+package com.kodnest.method;
+
+public class The_Calculator_Dilemma {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
